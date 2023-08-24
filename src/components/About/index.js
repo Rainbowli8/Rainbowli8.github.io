@@ -3,8 +3,6 @@ import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAws, faCuttlefish, faDocker, faGitAlt, faJava, faPython, faReact, faUnity } from '@fortawesome/free-brands-svg-icons'
-import { ReactComponent as Clogo } from '../../assets/images/c++.svg';
-import { faDharmachakra } from '@fortawesome/free-solid-svg-icons'
 import Loader from '../Loader'
 
 const About = () => {
